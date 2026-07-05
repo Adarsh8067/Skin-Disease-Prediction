@@ -23,16 +23,6 @@
 This project bridges the gap between AI technology and accessible healthcare, particularly benefiting underserved and remote areas.
 
 ---
-
-## 👥 Team Members
-
-| Name |
-|------|
-| Julakanti Varshith |
-| Bojja Likita Reddy |
-| Manish Reddy P |
- 
-
 ---
 
 ## 🎯 Features
